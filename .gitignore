@@ -1,0 +1,19 @@
+# Linker output #
+###################
+Debug/Exe.out
+Debug/List.map
+*.browse
+*.o
+*.pbd
+*.pbd
+*.xcl
+
+# Configuration #
+###################
+*.wsdt
+*.crun
+*.dbgdt
+*.cspy
+*.dnx
+*.cgp
+*.ipcf
